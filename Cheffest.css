@@ -679,6 +679,7 @@ footer .right-div {
   .s2-items {
     width: 80%;
     flex-wrap: nowrap;
+    display: block;
     overflow-x: auto;
     justify-content: center;
     gap: 10px;
