@@ -13,6 +13,7 @@ body {
 
 .main {
   width: 100%;
+  height: 100vh;
   font-family: "Inter", sans-serif;
   background-image: url("Background-img.png");
   background-repeat: no-repeat;
@@ -679,7 +680,6 @@ footer .right-div {
   .s2-items {
     width: 80%;
     flex-wrap: nowrap;
-    display: block;
     overflow-x: auto;
     justify-content: center;
     gap: 10px;
